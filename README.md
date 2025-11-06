@@ -1,7 +1,7 @@
 # day12c.-Code2grow
 **Student Name:** M. Gowri Pujitha  
 **Roll No:** AP25110090140  
-**Challenge:** Day 9 - Smart Student Result Management
+**Challenge:** Day 12 - Smart Student Result Management
 
 ## Build Commands
 Linux/macOS:
